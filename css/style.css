@@ -1,1 +1,41 @@
-!
+a:link{
+    text-decoration: none;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    background-color:red;
+}
+
+*{   
+    text-align: center;
+    background-color: antiquewhite;
+}
+.navlinks{
+    display:inline-block;
+    width: 20%;
+    padding: 10px 0;
+    margin: -4px -4px -4px 0;
+}
+main h1 {
+    
+    display: inline-block;
+    padding: 10px;
+    color:black;
+    padding:10px;
+    text-align: center;
+}
+
+section,
+article {
+    height: 20px;
+}
+
+
+aside {
+    height: 500px;
+}
